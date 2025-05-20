@@ -23,7 +23,7 @@
          \/____/                  \/____/                  \/____/                                  
 </pre>                                                     
 
-<h1 align="center">Hi 👋, I'm Shivam Varyani — call me Shiv</h1>
+<h1 align="center">Hi 👋, I'm Shivam — call me Shiv</h1>
 <h3 align="center">Robotics • ML • SLAM • ROS2 • Embedded Systems</h3>
 
 ---
